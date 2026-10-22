@@ -146,3 +146,7 @@ save(ROOT/'sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n'+ET.tostring(x
 save(ROOT/'site.webmanifest',json.dumps({'name':'Seer Fairies','short_name':'Seer Fairies','start_url':'/','display':'standalone','background_color':'#0b1714','theme_color':'#0b1714','icons':[{'src':'/assets/favicon.svg','sizes':'any','type':'image/svg+xml'}]},indent=2)+'\n')
 save(ROOT/'assets/favicon.svg','<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#0b1714"/><path d="M20 49V15h25v4H25v11h17v4H25v15" fill="#c3d1b0"/><circle cx="46" cy="47" r="3" fill="#c3b2d1"/></svg>\n')
 print(f'Built {len(routes)+1} pages, {len(books)} cases, {len(available)} published titles.')
+
+# Refresh shared Seer Press discovery.
+import runpy
+runpy.run_path(str(ROOT/'scripts/update_collections.py'),run_name='__main__')
