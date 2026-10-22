@@ -1,0 +1,23 @@
+{
+  "verified": "2026-10-22",
+  "method": "Followed the Amazon series listing and opened each Kindle and paperback edition; all six had purchase controls. No purchase performed.",
+  "series_url": "https://www.amazon.com/dp/B0HK8XV1RP?binding=paperback&ref=dbs_dp_rwt_sb_pc_tpbk",
+  "books": [
+    {
+      "title": "The Púca",
+      "kindle": "https://www.amazon.com/dp/B0GX26FQKM",
+      "paperback": "https://www.amazon.com/dp/B0GX99BY8F"
+    },
+    {
+      "title": "The Sluagh",
+      "kindle": "https://www.amazon.com/dp/B0GX32J129",
+      "paperback": "https://www.amazon.com/dp/B0GXRDKVKZ"
+    },
+    {
+      "title": "The Each-Uisge",
+      "kindle": "https://www.amazon.com/dp/B0GXPRNX8H",
+      "paperback": "https://www.amazon.com/dp/B0GXRF82H8"
+    }
+  ],
+  "note": "Other titles are forthcoming. ISBN registration alone is not publication verification."
+}

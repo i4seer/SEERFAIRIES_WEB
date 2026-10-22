@@ -1,0 +1,654 @@
+[
+  {
+    "number": 1,
+    "title": "The Púca",
+    "slug": "the-puca",
+    "cover": "/assets/covers/the-puca.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "IT CANNOT LIE. BUT IT KNOWS THE QUESTION ELI REFUSES TO ASK.",
+      "BOOK TYPE": "An folkloric mystery",
+      "BACK HOOK": "THREE ROADS MEET.\nTHE BLACK HORSE WAITS.\nEVERY TRUE ANSWER HAS A PRICE.",
+      "BACK KICKER": "HOLLOW CREEK, WEST VIRGINIA • OCTOBER",
+      "BACK BLURB": "Thirteen-year-old Eli Morrow knows every mile around Hollow Creek—until the roads begin folding back to the same crossroads and a black horse with gold eyes starts speaking in his father's voice.\n\nThe Púca cannot lie. It does not need to. It can bend distance, borrow memories, and turn the truth Eli has avoided for two years into an offer he may not survive.\n\nWith Halloween closing in and the old boundary failing, Eli must face the question without letting the Púca choose the answer.",
+      "BACK CLOSING": "The truth is not safe just because it is true."
+    },
+    "group": "thresholds",
+    "status": "published",
+    "kindle": "https://www.amazon.com/dp/B0GX26FQKM",
+    "paperback": "https://www.amazon.com/dp/B0GX99BY8F",
+    "source_art": "book01/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1656,
+      38,
+      3174,
+      2381
+    ],
+    "source_copy": "book01/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 2,
+    "title": "The Sluagh",
+    "slug": "the-sluagh",
+    "cover": "/assets/covers/the-sluagh.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE DEAD ARE RIDING THE WEST WIND. THEY KNOW WHICH VOICES WILL OPEN THE DOOR.",
+      "BOOK TYPE": "A folkloric mystery",
+      "BACK HOOK": "THE WINDOWS ARE SHUT.\nTHE OLD IRON IS WARM.\nTHE DEAD ARE STILL CALLING.",
+      "BACK KICKER": "DRYDEN, KANSAS • ALL SOULS' DAY",
+      "BACK BLURB": "Fourteen-year-old Cass Whelan is trying to hold together a failing fence, a farm her family can no longer keep, and the memory of the grandmother who taught her how to repair both.\n\nThen a crescent of gray figures crosses the western sky. The Sluagh ride the wet cold, speak in the voices of the dead, and wait for grief to open a window.\n\nWhen Dryden's forgotten cemetery boundary fails, Cass must restore an old closing before the Host takes someone still living. But the voice calling her outside knows exactly what she wishes her grandmother had said.",
+      "BACK CLOSING": "Some voices should be remembered. Some should never be answered."
+    },
+    "group": "thresholds",
+    "status": "published",
+    "kindle": "https://www.amazon.com/dp/B0GX32J129",
+    "paperback": "https://www.amazon.com/dp/B0GXRDKVKZ",
+    "source_art": "book02/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1656,
+      38,
+      3174,
+      2381
+    ],
+    "source_copy": "book02/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 3,
+    "title": "The Each-Uisge",
+    "slug": "the-each-uisge",
+    "cover": "/assets/covers/the-each-uisge.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A DROWNED FATHER. A BOY WHO KNOWS WHERE. A HORSE THAT WALKS ON WATER.",
+      "BOOK TYPE": "An Appalachian folkloric mystery",
+      "BACK HOOK": "THE HORSE WALKS ON WATER.\nTHE BOY KNOWS WHERE HER FATHER LIES.\nBOTH ARE THE SAME CREATURE.",
+      "BACK KICKER": "CARVELL RESERVOIR, TENNESSEE • NOVEMBER 2026",
+      "BACK BLURB": "Thirteen-year-old Wren Calloway rows over the place her father drowned, waiting for the reservoir to give him back.\n\nThen a black horse appears on the water, and a new boy named Evan offers the exact location of her father's body. The price is only that Wren follow him into the lake.\n\nAs old iron warms and another victim vanishes, Wren discovers the creature beneath Carvell feeds on longing before it ever touches skin. To stop it, she must restore a forgotten barrier across a drowned town—and refuse the one answer she wants most.",
+      "BACK CLOSING": "Some things in deep water know exactly what to offer."
+    },
+    "group": "water",
+    "status": "published",
+    "kindle": "https://www.amazon.com/dp/B0GXPRNX8H",
+    "paperback": "https://www.amazon.com/dp/B0GXRF82H8",
+    "source_art": "book03/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1659,
+      38,
+      3177,
+      2381
+    ],
+    "source_copy": "book03/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 4,
+    "title": "The Dullahan",
+    "slug": "the-dullahan",
+    "cover": "/assets/covers/the-dullahan.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A RIDER SPEAKS ONE NAME. A GIRL RUNS OUT OF SIGHT.",
+      "BOOK TYPE": "An Upper Mississippi folkloric mystery",
+      "BACK HOOK": "THE RIVER FALLS SILENT.\nTHE RIDER OPENS EVERY DOOR.\nWHEN HE SPEAKS A NAME, SOMEONE DIES.",
+      "BACK KICKER": "FERRIS BEND, MINNESOTA • NOVEMBER 2026",
+      "BACK BLURB": "Fourteen-year-old Nora Voss crosses a condemned bridge to collect the medicine her mother needs. Then the river falls silent, and a headless rider begins searching Ferris Bend.\n\nEach time Nora looks into the pale lights of the head he carries, part of her vision disappears. Each night he comes closer to speaking her mother's name.\n\nReal gold can interrupt him. It cannot end what called him. To save her mother, Nora must force the town to confront the deadly cost of closing its hospital—and learn that demanding certainty can become its own dangerous delay.",
+      "BACK CLOSING": "Some names must never be finished."
+    },
+    "group": "thresholds",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book04/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1656,
+      38,
+      3174,
+      2381
+    ],
+    "source_copy": "book04/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 5,
+    "title": "The Leanan Sídhe",
+    "slug": "the-leanan-sidhe",
+    "cover": "/assets/covers/the-leanan-sidhe.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "ONE PERFECT LINE. ONE HUNGRY MUSE. ONE LIFE SHE CANNOT SPEND.",
+      "BOOK TYPE": "A Vermont folkloric mystery",
+      "BACK HOOK": "THE DRAWINGS BECOME EXTRAORDINARY.\nMAREN GROWS WEAKER.\nTHE MUSE CALLS THE PRICE TIME.",
+      "BACK KICKER": "ASHFIELD, VERMONT • DECEMBER 2026",
+      "BACK BLURB": "Fifteen-year-old Maren Cole has spent four years drawing safely around her grief. Then a red-haired stranger appears in her late mother's studio and offers the one thing Maren cannot refuse: work that finally feels alive.\n\nAfter one kiss, the drawings become extraordinary. So do the costs. Maren stops sleeping, loses weight, and keeps reaching for the pen.\n\nThe stranger calls the price time. To survive, Maren must uncover the rules hidden inside Ashfield's abandoned art school—and choose shared, imperfect work over the perfect art that is killing her.",
+      "BACK CLOSING": "A muse should never be the only person in the room."
+    },
+    "group": "gifts",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book05/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1638,
+      38,
+      3156,
+      2381
+    ],
+    "source_copy": "book05/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 6,
+    "title": "The Changeling",
+    "slug": "the-changeling",
+    "cover": "/assets/covers/the-changeling.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "HER MOTHER KNOWS EVERY FACT. SHE CAN NO LONGER SEE THE GIRL.",
+      "BOOK TYPE": "An Appalachian folkloric mystery",
+      "BACK HOOK": "THE HOUSE REMEMBERS HER HEIGHT.\nTHE MINE KEEPS THE OLD NAMES.\nHER MOTHER CAN NO LONGER SEE HER.",
+      "BACK KICKER": "GARNET, WEST VIRGINIA • NOVEMBER 2026",
+      "BACK BLURB": "Twelve-year-old Shea Brennan's mother remembers her school trip, her favorite cereal, and the shoes beneath the bench. She remembers everything about Shea—except the girl standing in front of her.\n\nAs Colleen's gaze slips away, Shea finds nine families with the same history, a sealed coal mine breathing the smell of peat, and old household records hidden beneath fresh paint. The stories call it a changeling. But no one has replaced Shea.\n\nTo make her mother see her again, Shea must uncover what Garnet stopped maintaining—and resist the pressure to erase every part of herself her mother does not recognize.",
+      "BACK CLOSING": "Recognition is not something a child should have to earn."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book06/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1657,
+      38,
+      3175,
+      2381
+    ],
+    "source_copy": "book06/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 7,
+    "title": "The Selkie",
+    "slug": "the-selkie",
+    "cover": "/assets/covers/the-selkie.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "HER MOTHER'S SKIN WAS STOLEN. NOW THE SEA WANTS HER BACK.",
+      "BOOK TYPE": "A Maine coastal folkloric mystery",
+      "BACK HOOK": "THE SEAL WATCHES THE HOUSE.\nTHE LOCKED CHEST BREATHES.\nHER FATHER KEPT THE KEY FOR THIRTY-TWO YEARS.",
+      "BACK KICKER": "COVENANT HARBOR, MAINE • JANUARY",
+      "BACK BLURB": "Fourteen-year-old Isla Thorne knows the winter harbor well enough to hear the tide turning. But the gray seal watching her mother's kitchen window—and the locked chest breathing in the attic—do not belong to any harbor rule she knows.\n\nThe chest holds a living seal skin. Her father has kept its key for thirty-two years. Returning it may restore her mother's freedom—and give her the power to leave.\n\nAs old ledgers reveal the compact Covenant Harbor forgot, Isla must help undo a captivity built into her own family without turning freedom into another choice made for someone else.",
+      "BACK CLOSING": "No claim made."
+    },
+    "group": "water",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book07/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1635,
+      38,
+      3153,
+      2381
+    ],
+    "source_copy": "book07/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 8,
+    "title": "The Redcap",
+    "slug": "the-redcap",
+    "cover": "/assets/covers/the-redcap.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE FORT ERASED THE DEAD. THE GUARDHOUSE REMEMBERED.",
+      "BOOK TYPE": "A New Mexico folkloric mystery",
+      "BACK HOOK": "THE GUARDHOUSE KNOCKS.\nTHE CAP IS STILL WET.\nTHE OFFICIAL STORY LEFT OUT THE CHILDREN.",
+      "BACK KICKER": "TULAROSA BASIN, NEW MEXICO • DECEMBER 2026",
+      "BACK BLURB": "Thirteen-year-old Sol knows Fort Caprock by temperature. When the guardhouse wall turns unnaturally cold and begins knocking from within, he finds an iron-booted thing waiting behind the door.\n\nThe old tour calls the fort a peacekeeping post. Hidden Army records tell another story: thirty-seven Mescalero Apache people forced inside, children among them, three deaths erased from every public plaque.\n\nFresh blood makes the Redcap stronger, and iron cannot stop it. With the gate cracking and a public tour watching, Sol must correct the record where everyone can hear—before the violence the fort concealed breaks free.",
+      "BACK CLOSING": "The walls remember what the plaques leave out."
+    },
+    "group": "thresholds",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book08/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1643,
+      38,
+      3161,
+      2381
+    ],
+    "source_copy": "book08/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 9,
+    "title": "The Nuckelavee",
+    "slug": "the-nuckelavee",
+    "cover": "/assets/covers/the-nuckelavee.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE PLANT POISONED THE BAYOU. SOMETHING IN THE WATER LEARNED TO WALK.",
+      "BOOK TYPE": "A Louisiana environmental folkloric mystery",
+      "BACK HOOK": "THE FISH DIE FIRST.\nTHE BLACK LINE MOVES UPSTREAM.\nTHE HORSE FOLLOWS THE POISONED WATER.",
+      "BACK KICKER": "HARKEN, LOUISIANA • MARCH 2027",
+      "BACK BLURB": "Fourteen-year-old Roan Kade has spent five months testing the bayou below Harken Petrochem. The numbers keep worsening. Fish float belly-up, grass turns black, and something enormous moves beneath the surface against the current.\n\nLocal families call it the Horse: a skinless shape that follows contaminated water and grows bolder after every plant release. Cleaner water stops it—but the plant keeps moving the boundary.\n\nRoan's evidence could trigger an investigation. It could also cost his father the job and insurance keeping their family afloat. To save the bayou, Roan must build a record no company can erase without turning the people he loves into data.",
+      "BACK CLOSING": "The water is bad today. The record exists today."
+    },
+    "group": "water",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book09/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1630,
+      38,
+      3148,
+      2381
+    ],
+    "source_copy": "book09/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 10,
+    "title": "The Fetch",
+    "slug": "the-fetch",
+    "cover": "/assets/covers/the-fetch.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE LAKE CHANGED. THE REFLECTIONS KNOW WHO HASN'T.",
+      "BOOK TYPE": "A Michigan winter folkloric mystery",
+      "BACK HOOK": "THE WALLEYE ARE GONE.\nTHE ICE SHOWS WHAT THE TOWN WON'T FACE.\nSOMETIMES THE REFLECTION ARRIVES FIRST.",
+      "BACK KICKER": "LAKE TAMARACK, MICHIGAN • JANUARY",
+      "BACK BLURB": "Thirteen-year-old Aven Lind knows Lake Tamarack by the rules her mother taught her. Then Aven sees a second Margit standing on three feet of January ice—same face, same clothes, empty hands.\n\nSoon doubles appear across Tamarack: a bait seller with empty tanks, a pastor before empty pews, Aven without the cap she has worn for years. Each reflection exposes the growing distance between who the town believes it is and what its changed lake can still support.\n\nThe walleye have collapsed, taking Margit's guide business with them. To protect her mother—and a town built around fish that are no longer there—Aven must keep a record honest enough to reveal the present without letting its possible futures decide who anyone becomes.",
+      "BACK CLOSING": "A reflection is not a prophecy. It is a measurement."
+    },
+    "group": "water",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book10/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1633,
+      38,
+      3151,
+      2381
+    ],
+    "source_copy": "book10/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 11,
+    "title": "The Will-o'-the-Wisp",
+    "slug": "the-will-o-the-wisp",
+    "cover": "/assets/covers/the-will-o-the-wisp.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE LIGHT GOES WHERE THE SEARCHERS DIDN'T. IT NEVER PROMISED A WAY BACK.",
+      "BOOK TYPE": "A Virginia swamp folkloric mystery",
+      "BACK HOOK": "BRIN WALKED INTO THE SWAMP.\nTHE SEARCH FOUND NOTHING.\nTHEN A GREEN-GOLD LIGHT BEGAN TO MOVE.",
+      "BACK KICKER": "JUNIPER, VIRGINIA • JANUARY",
+      "BACK BLURB": "Fourteen-year-old Kit Dunbar has searched the Great Dismal Swamp every night since Brin vanished. At 4:47, Kit straps on Brin's headlamp, walks to the one-mile marker, and comes home without her.\n\nThen a green-gold light appears beyond the boardwalk. Local records say never follow it: wisps lead people off maintained ground, vanish beside blackwater, and leave the next step hidden. But the official search never reached the deep swamp—and the light keeps moving northeast.\n\nArmed with a compass, an old logging spike, and rules preserved by generations of cemetery keepers, Kit must choose between a danger no one understands and leaving Brin where the search failed to look.",
+      "BACK CLOSING": "Meaning can wait. Ground cannot."
+    },
+    "group": "water",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book11/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1626,
+      38,
+      3144,
+      2381
+    ],
+    "source_copy": "book11/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 12,
+    "title": "The Bean Nighe",
+    "slug": "the-bean-nighe",
+    "cover": "/assets/covers/the-bean-nighe.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "SHE WASHES THE CLOTHES OF THE DEAD. THIS TIME, THE JACKET BELONGS TO ROWAN'S SISTER.",
+      "BOOK TYPE": "An Oregon coastal folkloric mystery",
+      "BACK HOOK": "THE FORD WAS HERE BEFORE THE BRIDGE.\nTHE WASHER WAS HERE BEFORE THE NAME.\nSHE IS STILL CARRYING WHAT THE TOWN LEFT BEHIND.",
+      "BACK KICKER": "HARROWGATE, OREGON • DECEMBER 2026",
+      "BACK BLURB": "Thirteen-year-old Rowan Tate has spent eight months running in her dead sister's shoes—five miles every morning, fast enough to keep grief behind her. Then she hears a woman keening beneath the county bridge and sees her washing Juni's yellow rain jacket at the old river ford.\n\nSoon wet belongings of Harrowgate's dead appear across town. Old hospice ledgers reveal what the community once did: keep watch, wash one useful thing, speak the name, and never leave one mourner to carry all of a death.\n\nThe washer offers no bargain and predicts no new death. She only keeps working. To quiet the ford, Rowan must stop treating grief like a race and help her family recover the work Harrowgate abandoned—before every burden the living refused returns soaked in river water.",
+      "BACK CLOSING": "No one should carry all of a drowning."
+    },
+    "group": "water",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book12/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1639,
+      38,
+      3157,
+      2381
+    ],
+    "source_copy": "book12/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 13,
+    "title": "The Boggart",
+    "slug": "the-boggart",
+    "cover": "/assets/covers/the-boggart.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "EVERY OLD HOUSE NEEDS CARE. THIS ONE NOTICES WHEN IT IS LEFT ALONE.",
+      "BOOK TYPE": "An Ohio Rust Belt folkloric mystery",
+      "BACK HOOK": "THE HOUSE WAS CHEAP.\nTHE REPAIRS BELONG TO THEM.\nSO DOES WHAT MOVES INSIDE THE WALLS.",
+      "BACK KICKER": "MILLHAVEN, OHIO • JANUARY 2027",
+      "BACK BLURB": "Thirteen-year-old Nessa Volk knows how houses fail. So when her mother buys Number 14 on an abandoned steel-town row, Nessa notices the thin mortar, the crooked doors—and the footsteps climbing all fourteen stairs after midnight.\n\nAn old union ledger offers a rule: fix what is broken, maintain the thresholds, and never make the presence the answer to every problem. For generations, shared maintenance kept Mill Street livable. Then the mill closed and every family was left alone.\n\nWhen a traveling Seer drives iron into Nessa's wall, the house answers with burst pipes, dead lights, and a door that will not open. To protect her little brother, Nessa must restore the practice the town abandoned before Number 14 becomes the only fact about their lives.",
+      "BACK CLOSING": "A difficult house should never become one family's burden."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book13/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1620,
+      38,
+      3138,
+      2381
+    ],
+    "source_copy": "book13/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 14,
+    "title": "The Brownie",
+    "slug": "the-brownie",
+    "cover": "/assets/covers/the-brownie.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE HELP WORKS AFTER DARK. COUNTING ITS VALUE COULD MAKE IT VANISH.",
+      "BOOK TYPE": "A Vermont folkloric mystery",
+      "BACK HOOK": "THE WOOD ARRIVED WITHOUT A BILL.\nTHE REPAIRS CAME WITHOUT A NAME.\nTHEN SOMEONE STARTED COUNTING.",
+      "BACK KICKER": "FENWICK, VERMONT • SEPTEMBER",
+      "BACK BLURB": "Fourteen-year-old Calla Byrne wakes at the old Pratt farmhouse to a cord of seasoned maple stacked on the porch. Then eggs appear. A faucet is fixed. Every favor arrives after dark, and no one claims the work.\n\nFenwick calls it the Help. The town survives by the same unwritten compact—wood, rides, food, and labor passed where needed without becoming a debt. But Calla's social-worker mother sees the cost hidden labor can carry and starts putting a price on every kindness.\n\nWhen Calla watches the night worker and the town makes its favors official, the giving stops. Then the useful work turns sour. To repair what they have broken, Calla must learn which things deserve a count—and which can survive only when no one demands a balance.",
+      "BACK CLOSING": "Some help disappears the moment it becomes a debt."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book14/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1627,
+      38,
+      3145,
+      2381
+    ],
+    "source_copy": "book14/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 15,
+    "title": "The Baobhan Sith",
+    "slug": "the-baobhan-sith",
+    "cover": "/assets/covers/the-baobhan-sith.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "NO ONE SEES HER ENTER. ONE TOUCH IS ENOUGH.",
+      "BOOK TYPE": "A collegiate folkloric mystery",
+      "BACK HOOK": "EVERYONE MADE ROOM.\nNO ONE ASKED WHO INVITED HER.\nTHEN HER DANCERS STOPPED WANTING ANYTHING.",
+      "BACK KICKER": "HAVERFIELD, MINNESOTA • NOVEMBER 2027",
+      "BACK BLURB": "Fourteen-year-old Sara Lowe is safest at the edge of a crowded room, where she can watch without being watched. At Whitfield House, she sees what everyone else misses: a girl in green appears in the middle of the dance floor without using the only door.\n\nAfter the stranger touches Sara's friends, they stop eating, talking, and wanting the lives they had. Sara's iron ring can break one contact, but it cannot protect an entire room. Old campus rules offer a different defense: host the threshold, back every refusal, and bring up the lights.\n\nBut the girl knows exactly what Sara wants—to stop standing at the edge and be chosen. To save her friends, Sara must face her in the center of the room and prove that wanting to belong is not permission to be taken.",
+      "BACK CLOSING": "Belonging should never cost the right to refuse."
+    },
+    "group": "gifts",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book15/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1643,
+      38,
+      3161,
+      2381
+    ],
+    "source_copy": "book15/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 16,
+    "title": "The Alp-Luachra",
+    "slug": "the-alp-luachra",
+    "cover": "/assets/covers/the-alp-luachra.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "THE WATER MADE EVERY DISH BETTER. IT WAS EATING THE CHEF ALIVE.",
+      "BOOK TYPE": "An Oregon culinary folkloric mystery",
+      "BACK HOOK": "THE FOOD TASTES PERFECT.\nTHE CHEF KEEPS EATING.\nSOMETHING ELSE IS GETTING FED.",
+      "BACK KICKER": "BRIAR FALLS, OREGON • OCTOBER",
+      "BACK BLURB": "Fourteen-year-old Sable Kesh can taste what other people miss. At The Root, her mother's celebrated Oregon restaurant, every dish begins with water from a private well—cold, mineral-rich, and praised as the truest flavor of the place.\n\nBut Chef Iris Kesh is wasting away no matter how much she eats. When Sable discovers that well-water food tastes complete yet leaves the body hollow, old farm records and a Kerry folktale point toward something living inside the restaurant's water line.\n\nClosing the tap could destroy The Root's reputation. Leaving it open could kill Iris. To save her mother, Sable must separate flavor from nourishment, folklore from evidence, and one dangerous source from every pipe it has already reached.",
+      "BACK CLOSING": "A perfect taste can still leave you empty."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": "book16/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1640,
+      38,
+      3158,
+      2381
+    ],
+    "source_copy": "book16/images-print/background-text.txt",
+    "copy_kind": "approved cover text"
+  },
+  {
+    "number": 17,
+    "title": "The Knocker",
+    "slug": "the-knocker",
+    "cover": null,
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Three taps beneath a town that forgot the old agreement.",
+      "BOOK TYPE": "A dark folkloric mystery",
+      "BACK HOOK": "THE MINE IS SEALED.\nTHE TAPPING HAS NOT STOPPED.",
+      "BACK KICKER": "CALUMET RIDGE, MICHIGAN • THE KEWEENAW PENINSULA",
+      "BACK BLURB": "Thirteen-year-old Rhys Pascoe hears tapping through the sandstone beneath his home in Calumet Ridge, a Michigan copper town whose mine closed decades ago. The rhythm is too deliberate to be settling rock.\n\nHis grandmother Morwenna has kept a small offering in the basement for fifty years. The Cornish stories she carries may explain why the sound has returned—and what the town has forgotten underground.",
+      "BACK CLOSING": "An old mine can close without ending an old agreement."
+    },
+    "group": "thresholds",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": null,
+    "source_crop": null,
+    "source_copy": "book17/metadata.yaml",
+    "copy_kind": "spoiler-light website summary based on book metadata"
+  },
+  {
+    "number": 18,
+    "title": "The Far Darrig",
+    "slug": "the-far-darrig",
+    "cover": null,
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "The theater is empty. Someone is laughing.",
+      "BOOK TYPE": "A dark folkloric mystery",
+      "BACK HOOK": "TATE IS ALONE ONSTAGE.\nTHE LAUGHTER COMES FROM G14.",
+      "BACK KICKER": "PRESCOTT ACADEMY, CONNECTICUT • THE THEATER",
+      "BACK BLURB": "Tate Oduya, thirteen, is rehearsing a Hamlet monologue alone at Prescott Academy when a laugh comes from an empty seat. The next day, a small red coat appears in the costume room.\n\nThe theater’s technical director has seen other students break on this stage. Behind the pressure to give a perfect performance waits a much older audience.",
+      "BACK CLOSING": "The most dangerous audience may be the one you cannot see."
+    },
+    "group": "gifts",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": null,
+    "source_crop": null,
+    "source_copy": "book18/metadata.yaml",
+    "copy_kind": "spoiler-light website summary based on book metadata"
+  },
+  {
+    "number": 19,
+    "title": "The Kelpie",
+    "slug": "the-kelpie",
+    "cover": null,
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A black horse waits at the ford.",
+      "BOOK TYPE": "A dark folkloric mystery",
+      "BACK HOOK": "THE RIVER TOOK HER FATHER.\nNOW SOMETHING WAITS IN THE SHALLOWS.",
+      "BACK KICKER": "CHERRY FALLS, WEST VIRGINIA • THE UPPER ELK RIVER",
+      "BACK BLURB": "Rhea Vance, thirteen, returns at dawn to the river pool where her father vanished. She carries his hickory staff and the memory of the river rules he taught her.\n\nThen a sleek black horse appears at the ford, and a boy with wet hair stands in the shallows. A retired biologist’s decades of survey records suggest the pool has been taking more than one family’s grief.",
+      "BACK CLOSING": "The shallows are not the same as safe ground."
+    },
+    "group": "water",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": null,
+    "source_crop": null,
+    "source_copy": "book19/metadata.yaml",
+    "copy_kind": "spoiler-light website summary based on book metadata"
+  },
+  {
+    "number": 20,
+    "title": "The Glaistig",
+    "slug": "the-glaistig",
+    "cover": null,
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "The offering has been kept for sixty years.",
+      "BOOK TYPE": "A dark folkloric mystery",
+      "BACK HOOK": "MILK IN THE STONE.\nA PROMISE OLDER THAN THE FARM.",
+      "BACK KICKER": "DUNVEGAN HOLLOW, VERMONT • THE EAST PASTURE",
+      "BACK BLURB": "At her family’s Vermont farm, fourteen-year-old Eilidh Mòr helps care for Highland cattle while her grandmother keeps a daily offering at a stone brought from Skye generations ago.\n\nWhen a stranger arrives on foot with a black notebook, the farm’s oldest custom becomes part of a much larger question: what happens to an agreement when the people who remember it are disappearing?",
+      "BACK CLOSING": "Some inheritances have to be kept, not owned."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": null,
+    "source_crop": null,
+    "source_copy": "book20/metadata.yaml",
+    "copy_kind": "spoiler-light website summary based on book metadata"
+  },
+  {
+    "number": 21,
+    "title": "The Nisse",
+    "slug": "the-nisse",
+    "cover": null,
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "The cows are healthy. The milk will not keep.",
+      "BOOK TYPE": "A dark folkloric mystery",
+      "BACK HOOK": "THE PIPELINE IS CLEAN.\nSOMETHING IN THE BARN HAS STOPPED HELPING.",
+      "BACK KICKER": "TORSBY, WISCONSIN • THE HAUGEN DAIRY FARM",
+      "BACK BLURB": "Milk sours within minutes at the Haugen dairy farm. The pipeline is clean, the cows are healthy, and thirteen-year-old Astrid finds a cow’s tail braided in small, expert plaits at dawn.\n\nThe old Norwegian barn has its own history of work after dark. A veterinarian’s inherited wooden bowl may be a clue to the care the farm no longer remembers giving.",
+      "BACK CLOSING": "A working farm may depend on more than the work people can see."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": null,
+    "source_crop": null,
+    "source_copy": "book21/metadata.yaml",
+    "copy_kind": "spoiler-light website summary based on book metadata"
+  },
+  {
+    "number": 22,
+    "title": "The Domovoi",
+    "slug": "the-domovoi",
+    "cover": null,
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "The house remembers who kept it.",
+      "BOOK TYPE": "A dark folkloric mystery",
+      "BACK HOOK": "THE ESTATE IS BEING SORTED.\nTHE EMPTY CHAIR KEEPS MOVING.",
+      "BACK KICKER": "VOSTOK, PENNSYLVANIA • KOSSUTH STREET",
+      "BACK BLURB": "Twelve-year-old Katya Volkov-Marsh returns to her family’s old Pennsylvania row house after her grandfather’s death. Her mother sorts the estate into keep, donate, and discard. The bread on the counter has hardened to stone.\n\nNext door, Danya has spent two years recording the house’s rules in a composition book. As the family decides what to carry away, an older presence makes itself known in the rooms they are preparing to leave.",
+      "BACK CLOSING": "Leaving a house is not always the same as leaving it empty."
+    },
+    "group": "hearth",
+    "status": "forthcoming",
+    "kindle": null,
+    "paperback": null,
+    "source_art": null,
+    "source_crop": null,
+    "source_copy": "book22/metadata.yaml",
+    "copy_kind": "spoiler-light website summary based on book metadata"
+  }
+]
