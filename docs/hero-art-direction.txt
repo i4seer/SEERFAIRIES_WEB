@@ -1,3 +1,14 @@
+CURRENT HERO — 2026-10-26
+The current hero is exported from the author’s text-free Dark Folklore art:
+C:\SEERFAIRIES\book01\images-print\background-dark-folklore-master.png
+It is the engraved autumn crossroads and black horse used on The Púca cover.
+The source illustration is cropped to 1920 × 1080 and saved as
+assets/hero-crossroads.png and assets/hero-crossroads.webp. The headline and
+buttons remain live HTML. The site uses the covers’ Alegreya SC Black title
+font, Charter reading font, bone cream, autumn amber, and individual book colors.
+Regenerate with python scripts/build_site.py --source C:/SEERFAIRIES.
+
+HISTORICAL HERO — 2026-10-22 (replaced)
 SEER FAIRIES — hero art direction
 Generated with the built-in image generation tool on 2026-10-22.
 References: current extracted front covers for The Púca and The Each-Uisge.

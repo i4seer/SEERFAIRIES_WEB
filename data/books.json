@@ -10,7 +10,7 @@
     ],
     "copy": {
       "FRONT TAGLINE": "IT CANNOT LIE. BUT IT KNOWS THE QUESTION ELI REFUSES TO ASK.",
-      "BOOK TYPE": "An folkloric mystery",
+      "BOOK TYPE": "A folkloric mystery",
       "BACK HOOK": "THREE ROADS MEET.\nTHE BLACK HORSE WAITS.\nEVERY TRUE ANSWER HAS A PRICE.",
       "BACK KICKER": "HOLLOW CREEK, WEST VIRGINIA • OCTOBER",
       "BACK BLURB": "Thirteen-year-old Eli Morrow knows every mile around Hollow Creek—until the roads begin folding back to the same crossroads and a black horse with gold eyes starts speaking in his father's voice.\n\nThe Púca cannot lie. It does not need to. It can bend distance, borrow memories, and turn the truth Eli has avoided for two years into an offer he may not survive.\n\nWith Halloween closing in and the old boundary failing, Eli must face the question without letting the Púca choose the answer.",
@@ -22,13 +22,18 @@
     "paperback": "https://www.amazon.com/dp/B0GX99BY8F",
     "source_art": "book01/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1656,
+      1668,
       38,
-      3174,
+      3186,
       2381
     ],
-    "source_copy": "book01/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book01/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ecad52",
+    "source_art_sha256": "b0b1c1b8c4b8ea14628922fe93e4017f7ba456fdd1d71519c059b8a65927aeae",
+    "artwork": "/assets/scenes/the-puca.webp",
+    "artwork_thumb": "/assets/scenes/the-puca-thumb.webp",
+    "source_scene": "book01/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 2,
@@ -53,13 +58,18 @@
     "paperback": "https://www.amazon.com/dp/B0GXRDKVKZ",
     "source_art": "book02/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1656,
+      1659,
       38,
-      3174,
+      3177,
       2381
     ],
-    "source_copy": "book02/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book02/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#b0d3db",
+    "source_art_sha256": "84065d936d1c19810d027fda151a27d8616aba2b537b33db566cdc4981ab67db",
+    "artwork": "/assets/scenes/the-sluagh.webp",
+    "artwork_thumb": "/assets/scenes/the-sluagh-thumb.webp",
+    "source_scene": "book02/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 3,
@@ -84,13 +94,18 @@
     "paperback": "https://www.amazon.com/dp/B0GXRF82H8",
     "source_art": "book03/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1659,
+      1679,
       38,
-      3177,
+      3197,
       2381
     ],
-    "source_copy": "book03/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book03/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#83d2ca",
+    "source_art_sha256": "5b832be02342b332022e97427979be90e894be4177f5848445a58ae82f98beba",
+    "artwork": "/assets/scenes/the-each-uisge.webp",
+    "artwork_thumb": "/assets/scenes/the-each-uisge-thumb.webp",
+    "source_scene": "book03/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 4,
@@ -110,18 +125,23 @@
       "BACK CLOSING": "Some names must never be finished."
     },
     "group": "thresholds",
-    "status": "forthcoming",
+    "status": "review",
     "kindle": null,
     "paperback": null,
     "source_art": "book04/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1656,
+      1669,
       38,
-      3174,
+      3187,
       2381
     ],
-    "source_copy": "book04/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book04/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ea8474",
+    "source_art_sha256": "d8ca660a33d268041982ab3fcca29fec1d56cf66f97f685b5e4f68825c88a1ea",
+    "artwork": "/assets/scenes/the-dullahan.webp",
+    "artwork_thumb": "/assets/scenes/the-dullahan-thumb.webp",
+    "source_scene": "book04/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 5,
@@ -141,18 +161,23 @@
       "BACK CLOSING": "A muse should never be the only person in the room."
     },
     "group": "gifts",
-    "status": "forthcoming",
+    "status": "writing",
     "kindle": null,
     "paperback": null,
     "source_art": "book05/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1638,
+      1665,
       38,
-      3156,
+      3183,
       2381
     ],
-    "source_copy": "book05/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book05/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#d99b9b",
+    "source_art_sha256": "28b4fb1bf9cc40c1b22070b9a31f1f41dcdc425c3b78e1d6b2bd1838509fca2c",
+    "artwork": "/assets/scenes/the-leanan-sidhe.webp",
+    "artwork_thumb": "/assets/scenes/the-leanan-sidhe-thumb.webp",
+    "source_scene": "book05/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 6,
@@ -177,13 +202,18 @@
     "paperback": null,
     "source_art": "book06/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1657,
+      1663,
       38,
-      3175,
+      3181,
       2381
     ],
-    "source_copy": "book06/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book06/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#b1c987",
+    "source_art_sha256": "38c332c693e24163e552e3b80d1408a4e0f8ec1f894f652f6b928474d603d58a",
+    "artwork": "/assets/scenes/the-changeling.webp",
+    "artwork_thumb": "/assets/scenes/the-changeling-thumb.webp",
+    "source_scene": "book06/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 7,
@@ -213,8 +243,13 @@
       3153,
       2381
     ],
-    "source_copy": "book07/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book07/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#95ceb8",
+    "source_art_sha256": "61174a061b86aad11998e7014e0c2ecbbc960df58ad27cf63a8b48d814cc029a",
+    "artwork": "/assets/scenes/the-selkie.webp",
+    "artwork_thumb": "/assets/scenes/the-selkie-thumb.webp",
+    "source_scene": "book07/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 8,
@@ -244,8 +279,13 @@
       3161,
       2381
     ],
-    "source_copy": "book08/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book08/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ee947a",
+    "source_art_sha256": "7ad9501dc2fa391085d8dcc92aace271619463733c80176dd5764042ab634ff0",
+    "artwork": "/assets/scenes/the-redcap.webp",
+    "artwork_thumb": "/assets/scenes/the-redcap-thumb.webp",
+    "source_scene": "book08/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 9,
@@ -275,8 +315,13 @@
       3148,
       2381
     ],
-    "source_copy": "book09/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book09/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#d5de7d",
+    "source_art_sha256": "828f602ea81c224523ccbee9930f047bd4e5699fe6853429e030627deb8e105e",
+    "artwork": "/assets/scenes/the-nuckelavee.webp",
+    "artwork_thumb": "/assets/scenes/the-nuckelavee-thumb.webp",
+    "source_scene": "book09/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 10,
@@ -306,8 +351,13 @@
       3151,
       2381
     ],
-    "source_copy": "book10/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book10/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#eca85b",
+    "source_art_sha256": "61c0a7f6bb7c4bd19abe7ca5a9056d7aa309ea696fac74550cd4a8c9efbb3e04",
+    "artwork": "/assets/scenes/the-fetch.webp",
+    "artwork_thumb": "/assets/scenes/the-fetch-thumb.webp",
+    "source_scene": "book10/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 11,
@@ -337,8 +387,13 @@
       3144,
       2381
     ],
-    "source_copy": "book11/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book11/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ddd86f",
+    "source_art_sha256": "d4ef19ada2ca7761ac565ff2b093de3b2ebf30359a36fedfa8da77598e27d26a",
+    "artwork": "/assets/scenes/the-will-o-the-wisp.webp",
+    "artwork_thumb": "/assets/scenes/the-will-o-the-wisp-thumb.webp",
+    "source_scene": "book11/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 12,
@@ -368,8 +423,13 @@
       3157,
       2381
     ],
-    "source_copy": "book12/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book12/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ebc768",
+    "source_art_sha256": "82467e254e973b6133e2f03ec8f3572b3c821976663819b14d90d539c2775468",
+    "artwork": "/assets/scenes/the-bean-nighe.webp",
+    "artwork_thumb": "/assets/scenes/the-bean-nighe-thumb.webp",
+    "source_scene": "book12/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 13,
@@ -399,8 +459,13 @@
       3138,
       2381
     ],
-    "source_copy": "book13/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book13/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#e8aa6d",
+    "source_art_sha256": "1b92d34ac2bf545cc600a0684ef6527fc52b7af6f10a1d709a9d5f251027a7d1",
+    "artwork": "/assets/scenes/the-boggart.webp",
+    "artwork_thumb": "/assets/scenes/the-boggart-thumb.webp",
+    "source_scene": "book13/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 14,
@@ -430,8 +495,13 @@
       3145,
       2381
     ],
-    "source_copy": "book14/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book14/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#9bcbdb",
+    "source_art_sha256": "86cfb66a508d2ae990ca73a04a166823b56ab0a2d4c97993acc76b7c727e044a",
+    "artwork": "/assets/scenes/the-brownie.webp",
+    "artwork_thumb": "/assets/scenes/the-brownie-thumb.webp",
+    "source_scene": "book14/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 15,
@@ -461,8 +531,13 @@
       3161,
       2381
     ],
-    "source_copy": "book15/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book15/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#9dce9d",
+    "source_art_sha256": "86ffef2d6c59b2ffbcb7e2351ab38de90da17afb4c9959f826138d17834bf9e7",
+    "artwork": "/assets/scenes/the-baobhan-sith.webp",
+    "artwork_thumb": "/assets/scenes/the-baobhan-sith-thumb.webp",
+    "source_scene": "book15/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 16,
@@ -492,112 +567,157 @@
       3158,
       2381
     ],
-    "source_copy": "book16/images-print/background-text.txt",
-    "copy_kind": "approved cover text"
+    "source_copy": "book16/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#85cdcc",
+    "source_art_sha256": "758b5aa55dd5ab59ea71539585dd835096f28143d45bfd22900b0c14a7eccfd9",
+    "artwork": "/assets/scenes/the-alp-luachra.webp",
+    "artwork_thumb": "/assets/scenes/the-alp-luachra-thumb.webp",
+    "source_scene": "book16/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 17,
     "title": "The Knocker",
     "slug": "the-knocker",
-    "cover": null,
+    "cover": "/assets/covers/the-knocker.webp",
     "size": [
       900,
       1389
     ],
     "copy": {
-      "FRONT TAGLINE": "Three taps beneath a town that forgot the old agreement.",
-      "BOOK TYPE": "A dark folkloric mystery",
-      "BACK HOOK": "THE MINE IS SEALED.\nTHE TAPPING HAS NOT STOPPED.",
-      "BACK KICKER": "CALUMET RIDGE, MICHIGAN • THE KEWEENAW PENINSULA",
-      "BACK BLURB": "Thirteen-year-old Rhys Pascoe hears tapping through the sandstone beneath his home in Calumet Ridge, a Michigan copper town whose mine closed decades ago. The rhythm is too deliberate to be settling rock.\n\nHis grandmother Morwenna has kept a small offering in the basement for fifty years. The Cornish stories she carries may explain why the sound has returned—and what the town has forgotten underground.",
-      "BACK CLOSING": "An old mine can close without ending an old agreement."
+      "FRONT TAGLINE": "THE MINE CLOSED SIXTY YEARS AGO. THE WORK BELOW NEVER DID.",
+      "BOOK TYPE": "A Michigan copper-country folkloric mystery",
+      "BACK HOOK": "THREE KNOCKS MEAN THE GROUND IS STEADY.\nA CHANGED RHYTHM MEANS STOP.\nSILENCE MEANS RUN.",
+      "BACK KICKER": "CALUMET RIDGE, MICHIGAN • JANUARY 2028",
+      "BACK BLURB": "Thirteen-year-old Rhys Pascoe knows every sound in his family's old mining house. Three measured knocks rising through the basement stone are not pipes—and when his grandmother's weekly pasty crust vanishes into the floor, Rhys learns Calumet Ridge once listened back.\n\nThen the sealed mine adit splits open. Sinkholes swallow streets, buildings crack, and Rhys's friend Wen follows the sound underground until it follows her home. Forgotten shift books reveal that miners once recorded every change in the knocking beside timber orders and ground movement.\n\nThe mine closed sixty years ago, but something below kept working after the town stopped answering. To keep Calumet Ridge from collapsing, Rhys must restore the human half of a compact made from listening, records, and knowing when to leave.",
+      "BACK CLOSING": "The mine remembers every warning the town forgot."
     },
     "group": "thresholds",
     "status": "forthcoming",
     "kindle": null,
     "paperback": null,
-    "source_art": null,
-    "source_crop": null,
-    "source_copy": "book17/metadata.yaml",
-    "copy_kind": "spoiler-light website summary based on book metadata"
+    "source_art": "book17/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1642,
+      38,
+      3160,
+      2381
+    ],
+    "source_copy": "book17/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#e3b168",
+    "source_art_sha256": "03ed429b54e743edbaf55588094bb40864d4927b6388472f74fab0d5f5b96243",
+    "artwork": "/assets/scenes/the-knocker.webp",
+    "artwork_thumb": "/assets/scenes/the-knocker-thumb.webp",
+    "source_scene": "book17/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 18,
     "title": "The Far Darrig",
     "slug": "the-far-darrig",
-    "cover": null,
+    "cover": "/assets/covers/the-far-darrig.webp",
     "size": [
       900,
       1389
     ],
     "copy": {
-      "FRONT TAGLINE": "The theater is empty. Someone is laughing.",
-      "BOOK TYPE": "A dark folkloric mystery",
-      "BACK HOOK": "TATE IS ALONE ONSTAGE.\nTHE LAUGHTER COMES FROM G14.",
-      "BACK KICKER": "PRESCOTT ACADEMY, CONNECTICUT • THE THEATER",
-      "BACK BLURB": "Tate Oduya, thirteen, is rehearsing a Hamlet monologue alone at Prescott Academy when a laugh comes from an empty seat. The next day, a small red coat appears in the costume room.\n\nThe theater’s technical director has seen other students break on this stage. Behind the pressure to give a perfect performance waits a much older audience.",
-      "BACK CLOSING": "The most dangerous audience may be the one you cannot see."
+      "FRONT TAGLINE": "THE LAUGHTER STARTS WHEN HE SHOULD STOP.",
+      "BOOK TYPE": "A Connecticut boarding-school folkloric mystery",
+      "BACK HOOK": "THE HOUSE IS EMPTY.\nTHE LAUGHTER IS NOT.\nTHE RED COAT IS WAITING.",
+      "BACK KICKER": "PRESCOTT, CONNECTICUT • DECEMBER 2025",
+      "BACK BLURB": "Thirteen-year-old Tate Oduya has trained for every failure a stage can offer—missed cues, dropped lines, bad audiences. So when laughter follows him through an empty theater, he does what Prescott Academy taught him: he keeps performing.\n\nThen a small red coat starts appearing backstage. The laughter learns Tate's private fears, follows him into classrooms, and grows strongest whenever being watched makes stopping feel impossible. Old production books reveal that earlier actors survived by using one forgotten command: HOLD.\n\nBut the Far Darrig does not need a stage. It needs an audience and a performer who believes finishing means winning. To keep acting without surrendering himself, Tate must give the room an off switch—and learn that stopping can be part of the work.",
+      "BACK CLOSING": "The audience bought the performance—not the performer."
     },
     "group": "gifts",
     "status": "forthcoming",
     "kindle": null,
     "paperback": null,
-    "source_art": null,
-    "source_crop": null,
-    "source_copy": "book18/metadata.yaml",
-    "copy_kind": "spoiler-light website summary based on book metadata"
+    "source_art": "book18/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1640,
+      38,
+      3158,
+      2381
+    ],
+    "source_copy": "book18/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ec9768",
+    "source_art_sha256": "e70877ef061d214e6ea3558f968e7fcc85a598c70ad6a110d79c3ffd65c44f46",
+    "artwork": "/assets/scenes/the-far-darrig.webp",
+    "artwork_thumb": "/assets/scenes/the-far-darrig-thumb.webp",
+    "source_scene": "book18/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 19,
     "title": "The Kelpie",
     "slug": "the-kelpie",
-    "cover": null,
+    "cover": "/assets/covers/the-kelpie.webp",
     "size": [
       900,
       1389
     ],
     "copy": {
-      "FRONT TAGLINE": "A black horse waits at the ford.",
-      "BOOK TYPE": "A dark folkloric mystery",
-      "BACK HOOK": "THE RIVER TOOK HER FATHER.\nNOW SOMETHING WAITS IN THE SHALLOWS.",
-      "BACK KICKER": "CHERRY FALLS, WEST VIRGINIA • THE UPPER ELK RIVER",
-      "BACK BLURB": "Rhea Vance, thirteen, returns at dawn to the river pool where her father vanished. She carries his hickory staff and the memory of the river rules he taught her.\n\nThen a sleek black horse appears at the ford, and a boy with wet hair stands in the shallows. A retired biologist’s decades of survey records suggest the pool has been taking more than one family’s grief.",
-      "BACK CLOSING": "The shallows are not the same as safe ground."
+      "FRONT TAGLINE": "THE RIVER TOOK HER FATHER. NOW IT HAS SENT A HORSE.",
+      "BOOK TYPE": "An Appalachian river folkloric mystery",
+      "BACK HOOK": "FOUR MEN ENTERED THE FORD.\nTHE RIVER RETURNED THEIR GEAR.\nIT KEPT THE BODIES.",
+      "BACK KICKER": "CHERRY FALLS, WEST VIRGINIA • JUNE 2027",
+      "BACK BLURB": "Thirteen-year-old Rhea Vance knows every safe step through Rockcamp Ford. Her father taught her before he vanished in its deepest pool, leaving behind a wading staff, a fly rod, and no body.\n\nThen a bridled black horse appears at dawn. A wet-haired boy named Lark offers to show Rhea the submerged stair beneath Gage Hole—and seems to know exactly how far her father descended. Old survey records repeat the same warning across generations: take the reins from the bank. Never ride.\n\nBut removing the bridle only ends one form of the lure. To leave the river without surrendering her questions, Rhea must separate wanting from stepping—and restore a safety rule the town forgot long before it forgot why.",
+      "BACK CLOSING": "Wanting is not stepping."
     },
     "group": "water",
     "status": "forthcoming",
     "kindle": null,
     "paperback": null,
-    "source_art": null,
-    "source_crop": null,
-    "source_copy": "book19/metadata.yaml",
-    "copy_kind": "spoiler-light website summary based on book metadata"
+    "source_art": "book19/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1636,
+      38,
+      3154,
+      2381
+    ],
+    "source_copy": "book19/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#95d3e4",
+    "source_art_sha256": "9a35557ff1efcbde0b280558c249b8e44f1df122dc51c5c0e7ed70c3d88881b8",
+    "artwork": "/assets/scenes/the-kelpie.webp",
+    "artwork_thumb": "/assets/scenes/the-kelpie-thumb.webp",
+    "source_scene": "book19/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 20,
     "title": "The Glaistig",
     "slug": "the-glaistig",
-    "cover": null,
+    "cover": "/assets/covers/the-glaistig.webp",
     "size": [
       900,
       1389
     ],
     "copy": {
-      "FRONT TAGLINE": "The offering has been kept for sixty years.",
-      "BOOK TYPE": "A dark folkloric mystery",
-      "BACK HOOK": "MILK IN THE STONE.\nA PROMISE OLDER THAN THE FARM.",
-      "BACK KICKER": "DUNVEGAN HOLLOW, VERMONT • THE EAST PASTURE",
-      "BACK BLURB": "At her family’s Vermont farm, fourteen-year-old Eilidh Mòr helps care for Highland cattle while her grandmother keeps a daily offering at a stone brought from Skye generations ago.\n\nWhen a stranger arrives on foot with a black notebook, the farm’s oldest custom becomes part of a much larger question: what happens to an agreement when the people who remember it are disappearing?",
-      "BACK CLOSING": "Some inheritances have to be kept, not owned."
+      "FRONT TAGLINE": "THE FARM HAS A GUARDIAN. IT NO LONGER KNOWS WHO BELONGS.",
+      "BOOK TYPE": "A Vermont farm folkloric mystery",
+      "BACK HOOK": "THE OFFERING CONTINUED.\nTHE COMPACT DID NOT.\nNOW THE GUARDIAN TAKES.",
+      "BACK KICKER": "DUNVEGAN HOLLOW, VERMONT • FEBRUARY",
+      "BACK BLURB": "Fourteen-year-old Eilidh Mòr knows every task on her family's Vermont cattle farm. She can hear a milk bucket filling without looking and find a frozen water line before breakfast. She has never asked why Gran carries yesterday's milk to a hollow stone each dawn.\n\nThen a woman in green appears beside the east wall. The Highland cattle accept her, but a neighbor leaves with grey marks at his throat and a working dog dies at the boundary. The daily offering never stopped. The rest of the old compact did.\n\nWith the farm failing, Gran slowing, and the Seer's own power coming due, Eilidh must rebuild the work that once taught the guardian who belonged—and decide whether she will inherit a gift whose costs have already broken the person carrying it.",
+      "BACK CLOSING": "A guardian needs more than an offering."
     },
     "group": "hearth",
     "status": "forthcoming",
     "kindle": null,
     "paperback": null,
-    "source_art": null,
-    "source_crop": null,
-    "source_copy": "book20/metadata.yaml",
-    "copy_kind": "spoiler-light website summary based on book metadata"
+    "source_art": "book20/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1643,
+      38,
+      3161,
+      2381
+    ],
+    "source_copy": "book20/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#9dd197",
+    "source_art_sha256": "8a458812ac94ffb292ce5f29f5480d98c639863d4108f01f56f7f47e8eda8f7e",
+    "artwork": "/assets/scenes/the-glaistig.webp",
+    "artwork_thumb": "/assets/scenes/the-glaistig-thumb.webp",
+    "source_scene": "book20/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 21,
@@ -609,21 +729,25 @@
       1389
     ],
     "copy": {
-      "FRONT TAGLINE": "The cows are healthy. The milk will not keep.",
-      "BOOK TYPE": "A dark folkloric mystery",
-      "BACK HOOK": "THE PIPELINE IS CLEAN.\nSOMETHING IN THE BARN HAS STOPPED HELPING.",
-      "BACK KICKER": "TORSBY, WISCONSIN • THE HAUGEN DAIRY FARM",
-      "BACK BLURB": "Milk sours within minutes at the Haugen dairy farm. The pipeline is clean, the cows are healthy, and thirteen-year-old Astrid finds a cow’s tail braided in small, expert plaits at dawn.\n\nThe old Norwegian barn has its own history of work after dark. A veterinarian’s inherited wooden bowl may be a clue to the care the farm no longer remembers giving.",
-      "BACK CLOSING": "A working farm may depend on more than the work people can see."
+      "FRONT TAGLINE": "THE MILK SOURS. THE TIMBERS SHIFT. THE OLD THANK-YOU IS GONE.",
+      "BOOK TYPE": "A Wisconsin farm folkloric mystery",
+      "BACK HOOK": "THE MILK SOURS IN MINUTES.\nTHE OLD BARN IS GIVING WAY.\nTHE FAMILY HAS FORGOTTEN WHO SHARED THE WORK.",
+      "BACK KICKER": "TORSBY, WISCONSIN • NORWEGIAN DAIRY COUNTRY",
+      "BACK BLURB": "Thirteen-year-old Astrid Haugen knows her family's dairy cows, the morning milking, and what a bad milk test can cost. But clean equipment cannot explain milk that sours minutes after it is drawn—or the small, expert braids appearing in Solveig's tail before dawn.\n\nThe old Norwegian barn has begun to fail. A carved porridge bowl, a discarded red cap, and a veterinarian's family records point toward a household guardian the Haugens stopped acknowledging. Eilidh Mòr arrives on her first case as the new Seer, carrying notebooks that offer questions rather than an easy cure.\n\nAstrid wants to feed the Nisse and save the farm. But an offering cannot hold up neglected timbers. With Solveig in danger and the barn under strain, she must recover the work behind the old thank-you before the family loses what is still standing.",
+      "BACK CLOSING": "A thank-you cannot replace the work."
     },
     "group": "hearth",
     "status": "forthcoming",
     "kindle": null,
     "paperback": null,
-    "source_art": null,
-    "source_crop": null,
-    "source_copy": "book21/metadata.yaml",
-    "copy_kind": "spoiler-light website summary based on book metadata"
+    "source_art": "book21/images-print/background-dark-folklore-master.png",
+    "source_copy": "book21/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#e6c083",
+    "source_art_sha256": "4764d2df104d873e78951056075583e706e8f59610e24baeb21669f45ffd7ea0",
+    "artwork": "/assets/scenes/the-nisse.webp",
+    "artwork_thumb": "/assets/scenes/the-nisse-thumb.webp",
+    "source_scene": "book21/images-print/background-dark-folklore-master.png"
   },
   {
     "number": 22,
@@ -635,20 +759,24 @@
       1389
     ],
     "copy": {
-      "FRONT TAGLINE": "The house remembers who kept it.",
-      "BOOK TYPE": "A dark folkloric mystery",
-      "BACK HOOK": "THE ESTATE IS BEING SORTED.\nTHE EMPTY CHAIR KEEPS MOVING.",
-      "BACK KICKER": "VOSTOK, PENNSYLVANIA • KOSSUTH STREET",
-      "BACK BLURB": "Twelve-year-old Katya Volkov-Marsh returns to her family’s old Pennsylvania row house after her grandfather’s death. Her mother sorts the estate into keep, donate, and discard. The bread on the counter has hardened to stone.\n\nNext door, Danya has spent two years recording the house’s rules in a composition book. As the family decides what to carry away, an older presence makes itself known in the rooms they are preparing to leave.",
-      "BACK CLOSING": "Leaving a house is not always the same as leaving it empty."
+      "FRONT TAGLINE": "THE BREAD HAS TURNED TO STONE. THE HOUSE IS NOT FINISHED WITH THEM.",
+      "BOOK TYPE": "A Pennsylvania household folkloric mystery",
+      "BACK HOOK": "THE BREAD HAS TURNED TO STONE.\nTHE EMPTY CHAIR PULLS BACK.\nTHE FAMILY IS PREPARING TO LEAVE.",
+      "BACK KICKER": "VOSTOK, PENNSYLVANIA • THE MON VALLEY",
+      "BACK BLURB": "Twelve-year-old Katya Volkov-Marsh returns to her late grandfather's row house to find a half loaf hard as stone and a chair that will not stay pushed beneath the table. Her mother is sorting the family's history into keep, donate, and trash. Something in the kitchen refuses to be sorted.\n\nHer neighbor Danya has been keeping a record of the household rules Katya missed. A brown cloth recipe book holds another part of the handoff. With Eilidh Mòr's help, Katya begins to understand the presence her grandfather lived alongside—and what his death left unfinished.\n\nBut caring for a household cannot mean being trapped in one house forever. As the sale approaches, Katya and her mother must learn what can travel with them, what they owe the place they are leaving, and how to make a home the spirit has never known.",
+      "BACK CLOSING": "A home can change without leaving its care behind."
     },
     "group": "hearth",
     "status": "forthcoming",
     "kindle": null,
     "paperback": null,
-    "source_art": null,
-    "source_crop": null,
-    "source_copy": "book22/metadata.yaml",
-    "copy_kind": "spoiler-light website summary based on book metadata"
+    "source_art": "book22/images-print/background-dark-folklore-master.png",
+    "source_copy": "book22/images-print/cover-copy.txt",
+    "copy_kind": "approved cover text",
+    "accent": "#ecab6b",
+    "source_art_sha256": "aca01c8484bc8eedb24fafc4ca1c05198e328b17d1fe36de7fe2da645f801ef8",
+    "artwork": "/assets/scenes/the-domovoi.webp",
+    "artwork_thumb": "/assets/scenes/the-domovoi-thumb.webp",
+    "source_scene": "book22/images-print/background-dark-folklore-master.png"
   }
 ]
