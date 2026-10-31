@@ -16,14 +16,20 @@ def fingerprint(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def refresh(source, books):
+def refresh(source, books, book_numbers=None):
     designs = {b['number']: b for b in json.loads((source / 'cover-concepts/dark-folklore-designs.json').read_text(encoding='utf-8'))}
     covers = ROOT / 'assets/covers'
     scenes = ROOT / 'assets/scenes'
     covers.mkdir(exist_ok=True)
     scenes.mkdir(exist_ok=True)
+    previous = {}
+    if book_numbers is not None:
+        previous = {b['number']: b for b in json.loads((ROOT / 'data/fairies-artwork.json').read_text(encoding='utf-8'))['books']}
     records = []
     for b in books:
+        if book_numbers is not None and b['number'] not in book_numbers:
+            records.append(previous[b['number']])
+            continue
         directory = source / f'book{b["number"]:02}'
         master = directory / 'images-print/background-dark-folklore-master.png'
         if not master.is_file():
@@ -77,6 +83,9 @@ def refresh(source, books):
         b['copy_kind'] = 'approved cover text'
         records.append({'number': b['number'], 'title': b['title'], 'cover_kind': cover_kind, 'source_art': b['source_art'], 'source_art_sha256': b['source_art_sha256'], 'source_scene': b['source_scene'], 'source_scene_sha256': fingerprint(master), 'cover': b['cover'], 'artwork': b['artwork'], 'accent': b['accent']})
         print(f'Synced case {b["number"]:02}: {b["title"]} ({cover_kind})', flush=True)
+    if book_numbers is not None:
+        (ROOT / 'data/fairies-artwork.json').write_text(json.dumps({'source': 'SEERFAIRIES', 'books': records}, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+        return books
     fonts = ROOT / 'assets/fonts'
     for name in ('AlegreyaSC-Black', 'Charter-Regular', 'Charter-Italic', 'Charter-Bold'):
         font = TTFont(source / 'fonts' / f'{name}.ttf')

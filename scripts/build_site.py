@@ -8,7 +8,9 @@ import argparse,hashlib,html,json,re,xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parents[1]
 parser=argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--source',type=Path)
+parser.add_argument('--book',type=int,action='append',help='Refresh only this source book number; repeat for multiple books (requires --source)')
 args=parser.parse_args()
+if args.book and not args.source:parser.error('--book requires --source')
 config=json.loads((ROOT/'data/site.json').read_text(encoding='utf-8'))
 books=json.loads((ROOT/'data/books.json').read_text(encoding='utf-8'))
 e=lambda text:html.escape(str(text),quote=True)
@@ -20,7 +22,8 @@ def book_type(b):
     return text[0].upper()+text[1:]
 if args.source:
     from sync_fairies_artwork import refresh
-    books = refresh(args.source, books)
+    if args.book and not set(args.book).issubset({b['number'] for b in books}):parser.error('Unknown book number')
+    books = refresh(args.source, books, set(args.book) if args.book else None)
     save(ROOT/'data/books.json', json.dumps(books, ensure_ascii=False, indent=2)+'\n')
 
 groups=config['groups']; base=config['base_url'].rstrip('/'); routes=[]

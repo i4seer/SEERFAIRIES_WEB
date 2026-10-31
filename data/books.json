@@ -94,15 +94,15 @@
     "paperback": "https://www.amazon.com/dp/B0GXRF82H8",
     "source_art": "book03/images-print/cover-print-ready-no-barcode.png",
     "source_crop": [
-      1679,
+      1674,
       38,
-      3197,
+      3192,
       2381
     ],
     "source_copy": "book03/images-print/cover-copy.txt",
     "copy_kind": "approved cover text",
     "accent": "#83d2ca",
-    "source_art_sha256": "5b832be02342b332022e97427979be90e894be4177f5848445a58ae82f98beba",
+    "source_art_sha256": "cdda402b1fbe0d4c900b19684aadfa33a6c02b9bc2d973b853353da3436e0408",
     "artwork": "/assets/scenes/the-each-uisge.webp",
     "artwork_thumb": "/assets/scenes/the-each-uisge-thumb.webp",
     "source_scene": "book03/images-print/background-dark-folklore-master.png"

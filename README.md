@@ -31,6 +31,8 @@ The theme follows the covers: soot-black and forest surfaces, bone cream (`#f5eb
 
 ## 2026-10-26 artwork refresh
 
+October 31: refreshed Book 3, The Each-Uisge, from its current cover wrap and background master. To update one book without touching the others, use `python scripts/build_site.py --source C:/SEERFAIRIES --book 3`. SEERWEB and the shared series previews now feature this Book 3 artwork.
+
 Refreshed all 20 finished covers and illustrations for all 22 cases. Replaced the old photographic hero with the current engraved artwork, applied the cover typography and palette across the site, and added book-specific artwork banners. Published listings, edition links, contact details, and the existing hosting configuration are retained. The Books page has no search or filter capability. The update is local; deployment remains separate.
 
 Canonical URLs, social previews, Book structured data, sitemap, robots file, local favicon, and a web manifest are generated. Keep `CNAME` aligned with `data/site.json` if the domain changes. Assets receive content hashes for cache refreshes. No analytics, signup, checkout, or contact-form backend is included; contact addresses use existing publisher email links.
