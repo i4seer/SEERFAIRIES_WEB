@@ -38,3 +38,7 @@ Refreshed all 20 finished covers and illustrations for all 22 cases. Replaced th
 Canonical URLs, social previews, Book structured data, sitemap, robots file, local favicon, and a web manifest are generated. Keep `CNAME` aligned with `data/site.json` if the domain changes. Assets receive content hashes for cache refreshes. No analytics, signup, checkout, or contact-form backend is included; contact addresses use existing publisher email links.
 
 The existing Git repository and CNAME were preserved. No hosting deployment was performed as part of creating the local site.
+
+## Domain links prepared October 31, 2026
+
+This local project targets `https://fairies.i4seer.com/`. Website links, metadata and page generators use the i4seer.com collection subdomains. The publisher bar links to i4Seer Home and all six collections, with a compact Collections menu on smaller screens. Family links open in the same tab; Amazon links remain unchanged. Local CNAME files are prepared for the target addresses. Deployment, GitHub Pages settings, DNS, redirects and validation are handled by the site owner. No deployment or validation is performed by this update. Historical verification records in docs retain their original addresses and dates.
